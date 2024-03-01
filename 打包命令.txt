@@ -1,0 +1,1 @@
+qpt.exe -f G:\pythonWS\AotoArknights1 -p G:\pythonWS\AotoArknights1\main.py -s G:\AotoArknights1 -h False

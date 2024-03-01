@@ -1,0 +1,61 @@
+# Here is the list of packages automatically derived by QPT
+# you can ignore the dependent packages in the main package and only care about the main package
+# For example, you need to install paddlepaddle and pillow, because paddlepaddle relies on pillow, so you only need to install paddlepaddle.
+# ---------------------------------------------------------------------
+# QPT Home:        https://github.com/GT-ZhangAcer/QPT
+# ---------------------------------------------------------------------
+# 
+# -------------Mainly depends on package analysis results--------------
+
+pywin32==304
+pyautogui==0.9.53
+paddleocr==2.5.0.3
+visualdl==2.2.3
+
+# ----------------------Ignored dependent packages---------------------
+#self==2020.12.3
+#qpt==1.0b3.dev9
+#pyinstaller==5.1
+paddlepaddle_gpu==2.3.0
+#nuitka==0.8.1
+
+# ----------------------Ignored sub dependent packages---------------------
+
+# -----Dependencies of pyautogui
+#pymsgbox
+#pytweening>=1.0.1
+#pyscreeze>=0.1.21
+#pygetwindow>=0.0.5
+#mouseinfo
+
+# -----Dependencies of paddleocr
+#python_levenshtein
+#tqdm
+#lmdb
+#imgaug==0.4.0
+#opencv_contrib_python==4.4.0.46
+#attrdict
+#premailer
+#shapely
+#numpy
+#openpyxl
+#scikit_image
+#visualdl
+#cython
+#pyclipper
+#lxml
+
+# -----Dependencies of visualdl
+#requests
+#six>=1.14.0
+#pandas
+#matplotlib
+#bce_python_sdk
+protobuf>=3.11.0
+#flake8>=3.7.9
+#shellcheck_py
+#flask>=1.1.1
+#flask_babel>=1.0.0
+#numpy
+#pre_commit
+#pillow>=7.0.0
